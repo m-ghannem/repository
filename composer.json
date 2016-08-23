@@ -1,0 +1,6 @@
+{
+    "require": {
+        "components/angular.js": "^1.3",
+        "components/backbone": "^1.2"
+    }
+}
